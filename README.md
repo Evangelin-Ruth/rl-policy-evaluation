@@ -192,7 +192,7 @@ else:
 ![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/f286b4aa-2287-4b3c-be92-c12feeccdc8a)
 
 ### Conclusion:
-Conclusion:
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/e656dd94-98dc-4602-b03d-0e3375f44617)
 
 ## RESULT:
 
