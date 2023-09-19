@@ -176,10 +176,18 @@ else:
 ## OUTPUT:
 
 ### Policy 1:
-![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/3c459ddf-e2d9-4578-90f8-8cbccc9d4350)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/05a2950f-d12d-40fd-988c-024f34b7e542)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/a53b7fee-7187-43a6-9b5a-7c7b7802869e)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/46959142-c8ea-497a-a8dd-9be38f406107)
+
+
 
 ### Policy 2:
-![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/89e354a2-ab36-4f68-8a74-30ab06633dec)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/68c31d53-4f83-4159-8853-864469d0d518)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/d624d8cc-cbf2-4d97-9c0a-944b279669ca)
+![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/63ea1342-b39c-4a84-9972-eaa8ceff31ec)
+
+
 ### Comparison:
 ![image](https://github.com/Evangelin-Ruth/rl-policy-evaluation/assets/94219798/f286b4aa-2287-4b3c-be92-c12feeccdc8a)
 
